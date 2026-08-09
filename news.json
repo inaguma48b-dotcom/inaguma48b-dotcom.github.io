@@ -2,18 +2,18 @@
   "updated": "2026-08-10",
   "items": [
     {
+      "title": "中国AI「DeepSeek」、設立3年・残業ゼロで「ChatGPTのライバル」にのし上がった若き創業者の手腕",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/10/news027.html",
+      "source": "ITmedia AI+"
+    },
+    {
+      "title": "「Windowsの重い・遅い」の性能分析に専門知識はもう不要？ Microsoftが新ツール",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2608/10/news034.html",
+      "source": "ITmedia AI+"
+    },
+    {
       "title": "シャープが2026年9月からAIサーバ事業を開始、2026年度業績は円安で下方修正",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news042.html",
-      "source": "ITmedia AI+"
-    },
-    {
-      "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
-      "source": "ITmedia AI+"
-    },
-    {
-      "title": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
       "source": "ITmedia AI+"
     },
     {
@@ -32,7 +32,7 @@
       "source": "Publickey"
     },
     {
-      "title": "生成AIが新ウイルス設計 米研究 - news.yahoo.co.jp",
+      "title": "生成AIが新ウイルス設計 米研究 - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSdWkwYlZWTnctRFBpM1EtNFVCMVVOVWhTYXprSVB5OGVlLXhkZnl2bnhieENlbm9YdnNEUHpQc1VJWVRuNVI0R1oyZVdBNXln?oc=5",
       "source": "Google News"
     },
