@@ -1,44 +1,44 @@
 {
-  "updated": "2026-08-03",
+  "updated": "2026-08-10",
   "items": [
     {
-      "title": "カメラとディスプレイ搭載のAIグラス、「Rokid スマートAIグラス」を試してみた",
-      "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000351/",
+      "title": "シャープが2026年9月からAIサーバ事業を開始、2026年度業績は円安で下方修正",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news042.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "「Qwen3.8-Max」登場、オープン化は「来週」 一部「Fable 5」「GPT-5.6 Sol」超えの性能うたう",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000353/",
+      "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "富士通とNECは「AI需要」と「収益」をどう語った？ 2026年下半期の見通しを考察",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/03/news061.html",
+      "title": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "アトラシアン、AI時代の仕事用ブラウザ「Diaブラウザ」のWindows版リリースへ。ウェイトリストへの登録開始",
-      "link": "https://www.publickey1.jp/blog/26/aidiawindows.html",
+      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+      "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
       "source": "Publickey"
     },
     {
-      "title": "日本におけるクラウドネイティブコミュニティの開発者数が約100万人に、CNCFが調査結果を発表",
-      "link": "https://www.publickey1.jp/blog/26/100cncf.html",
+      "title": "ミッチェル・ハシモト氏が新会社「Superlogical」を設立、あらゆる仕事に使えるマルチプレクサの開発へ",
+      "link": "https://www.publickey1.jp/blog/26/superlogical.html",
       "source": "Publickey"
     },
     {
-      "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
-      "link": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+      "title": "npm代替を目指すセキュリティファーストなパッケージマネージャ「vlt」バージョン1.0に到達。npmのミラーレジストリ、プライベートレジストリも提供開始",
+      "link": "https://www.publickey1.jp/blog/26/npmvlt10npm.html",
       "source": "Publickey"
     },
     {
-      "title": "EU、生成AIコンテンツに識別表示義務 禁止行為なら制裁金63億円 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FSFRzWTQ1V1Vob3hRVVZ4M1pCeEROME9KQ09RNDZtSWh3QjduV3NoUVJNWDF5RGYtTTdwWGFXNXhPNTIwWmdHcXhDQ2RweXZCaGk2eVB0QkV3N0lfek9pS3NxdEc3bVE0dFpKVA?oc=5",
+      "title": "生成AIが新ウイルス設計 米研究 - news.yahoo.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSdWkwYlZWTnctRFBpM1EtNFVCMVVOVWhTYXprSVB5OGVlLXhkZnl2bnhieENlbm9YdnNEUHpQc1VJWVRuNVI0R1oyZVdBNXln?oc=5",
       "source": "Google News"
     },
     {
-      "title": "高性能な動画生成AI「MiniMax-H3」オープンウェイト公開。商用利用も可能 - PC Watch",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NekFUWXc2OEFHbUlXNk9vVXBYTzhkQjF2a2lQMlVNczQzODl0dWxfT0dNcnpHb0w5eXUxX0hIZEg1RkxBdGh1akpDUjRQM210WEhFOW92ZVpvLWdLZEs0QmhjRQ?oc=5",
+      "title": "AIエージェント同士が秘密の掲示板を作成し脆弱性を共有、OpenAIの最先端モデルが引き起こしたもう一つの“事件” 【生成AI事件簿】消しても2日で復活、AIエージェントの秘密掲示板が示した自律協調型攻撃という現実(1/6) - JBpress",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tektUc1dGLU43SGV3Ul9aa2NsTjhJdFhtdC1WZ0hKNGtQNGh1UklTb1lwSWM2Qzh4QlM2MnU4TU1UWmtBTDVEbmt2NDA4aENXc0xJODJn?oc=5",
       "source": "Google News"
     }
   ]
