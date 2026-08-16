@@ -1,44 +1,44 @@
 {
-  "updated": "2026-08-10",
+  "updated": "2026-08-17",
   "items": [
     {
-      "title": "中国AI「DeepSeek」、設立3年・残業ゼロで「ChatGPTのライバル」にのし上がった若き創業者の手腕",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/10/news027.html",
+      "title": "Claude、Codex、Qwen……そのAI用語、どう読む？ 読み方クイズ30問",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "「Windowsの重い・遅い」の性能分析に専門知識はもう不要？ Microsoftが新ツール",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2608/10/news034.html",
+      "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
+      "link": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "シャープが2026年9月からAIサーバ事業を開始、2026年度業績は円安で下方修正",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news042.html",
+      "title": "「Qwen3.8-27B」ウェイト公開 一部「Opus 4.6 Max」超えか ライセンスは商用可のApache 2.0",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
-      "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
+      "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
       "source": "Publickey"
     },
     {
-      "title": "ミッチェル・ハシモト氏が新会社「Superlogical」を設立、あらゆる仕事に使えるマルチプレクサの開発へ",
-      "link": "https://www.publickey1.jp/blog/26/superlogical.html",
+      "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
+      "link": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
       "source": "Publickey"
     },
     {
-      "title": "npm代替を目指すセキュリティファーストなパッケージマネージャ「vlt」バージョン1.0に到達。npmのミラーレジストリ、プライベートレジストリも提供開始",
-      "link": "https://www.publickey1.jp/blog/26/npmvlt10npm.html",
+      "title": "無料で使える「Delphi 13 Community Edtion」提供開始。Windows x86/Arm、Mac、iOS、Androidのネイティブアプリなど開発可能",
+      "link": "https://www.publickey1.jp/blog/26/delphi_13_community_edtionwindows_x86armmaciosandroid.html",
       "source": "Publickey"
     },
     {
-      "title": "生成AIが新ウイルス設計 米研究 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSdWkwYlZWTnctRFBpM1EtNFVCMVVOVWhTYXprSVB5OGVlLXhkZnl2bnhieENlbm9YdnNEUHpQc1VJWVRuNVI0R1oyZVdBNXln?oc=5",
+      "title": "個人の資産運用、生成AI利用に立ちはだかる「データの壁」 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NMjlNVmQzNjIwZzlXZTFuVnc1VkU5WUV4OFgxLXNzXzlhTi13OWJ4UzN0NnpKdTFYY2Y2ZFIxM0o0SURNUDNQY196d3lTc0loZWRzQThrMGx0bUg5LW5WV0lGOE04Z0ZnU1JxcA?oc=5",
       "source": "Google News"
     },
     {
-      "title": "AIエージェント同士が秘密の掲示板を作成し脆弱性を共有、OpenAIの最先端モデルが引き起こしたもう一つの“事件” 【生成AI事件簿】消しても2日で復活、AIエージェントの秘密掲示板が示した自律協調型攻撃という現実(1/6) - JBpress",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tektUc1dGLU43SGV3Ul9aa2NsTjhJdFhtdC1WZ0hKNGtQNGh1UklTb1lwSWM2Qzh4QlM2MnU4TU1UWmtBTDVEbmt2NDA4aENXc0xJODJn?oc=5",
+      "title": "Steamの“生成AI利用ゲーム”に対するプレイヤーの反応を分析した研究。評価を分けるのは“利用そのもの”より“利用目的”か - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrelA5elJ0bHNFUldrcEhZU29MUDRLb0hINkIwY0czVDR4SEZqU2Jua0NBZm1xOGJVcEJUMWVMeUlIT1pISWlPWHhTSVYtQUZVLTNJZUpEMHNmQjNhbnJPNm1nclhneFRsQkdIeA?oc=5",
       "source": "Google News"
     }
   ]
