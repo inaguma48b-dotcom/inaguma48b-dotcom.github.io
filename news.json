@@ -1,44 +1,44 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-08-31",
   "items": [
     {
-      "title": "ロボットの費用対効果が3年以内に人手を上回る――インテルが調査結果から洞察",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/24/news061.html",
+      "title": "ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴",
+      "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000950/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ 入力20％出力33％安く、11月21日まで",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/",
+      "title": "【無料】日本語のAI学習サイトをAnthropicが公開 「Claude Code入門」など357のコンテンツが学べる",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news015.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
+      "title": "Anthropic、OpenAIが明かす「AI利用拡大でユーザーに何が起きているか」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/27/news091.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
-      "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
+      "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中",
+      "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
       "source": "Publickey"
     },
     {
-      "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
-      "link": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
+      "title": "DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持",
+      "link": "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
       "source": "Publickey"
     },
     {
-      "title": "Flutter 3.47正式リリース。UIライブラリが分離され独立してアップデート可能、デフォルトでWebAssemblyを生成する方向に、など新機能",
-      "link": "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html",
+      "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
+      "link": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
       "source": "Publickey"
     },
     {
-      "title": "生成AI広告は「条件が整えば活用してよい」52.0%、透明性への配慮が前提【日本インタラクティブ広告協会調べ】 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmR2aGhpLXVsd2QtM0pJSXdkS211Sy10eWx5aWJqdDBhRGwtSlhPNWVhMlZpV01VMnBVSGtsQ0hLRWgxeEs3dWlvWDk5cEFaQ3RGOWZ1cEFPdksyQ0JpVXJVRVR3OFVyTVdVN25UMkk4c3B6RFc2aTJ6dTIxeWxxdkVMcERWNUZiRnlDYzUzT0R1VXhtRnRwSE42dHh5d0NscTJ3dkxyV25QUFU?oc=5",
+      "title": "タイ 生成AIを無料で利用可能に 政府が利用料支払い普及へ - NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VOVNuSDhhVUpYMkZKTDFxZVk5dzJ0WUc3cC0yYXJSQXNiOGRWcGtZYm85N3dJRklXcG9mMnlTZndiNXlmMlFhejFBUWtQeU85bHFjSEV5T1VzbHQzNDZB?oc=5",
       "source": "Google News"
     },
     {
-      "title": "「生成AIがあればコンサル不要」論者に見えていないこと - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNSlI3SHZwRmNIUWx0Uk1zc0IwMjBZdmxaX2Q0eHM3WjJxWGFNakJDYWhDQzVBam9wVXk1ZHM5UmliOXp3YmNfLWlnSFFfQkotWlFyRVBmTTdlNUpKRHFRT1lkVlNjY0pUY2Fj?oc=5",
+      "title": "自宅PCで巨大AIが高速動作？ ノートPCで350億、プロ向けGPU1枚で7530億パラメータのAIモデルを非公式量子化なしで動かす無償ツール「FreeToken」など生成AI技術5つを解説（生成AIウィークリー） - テクノエッジ TechnoEdge",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QMkJEcGE1aVJKMUFWU1ZmWGhvMnFTMkVDamVtN2lfWXZ6QUJZb1lNNnVxbWZkYmRmRERleWFjbXNXSHdhZFJHc0k5NlRqYVZXMTFOUmRvMkl1TjJrV1IzTEktTlNsdkE?oc=5",
       "source": "Google News"
     }
   ]
