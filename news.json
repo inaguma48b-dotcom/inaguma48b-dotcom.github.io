@@ -2,6 +2,11 @@
   "updated": "2026-09-07",
   "items": [
     {
+      "title": "Google「Gemini 3.8 Flash」発表 プロンプト1つで3Dゲーム生成、価格据え置きで大規模モデルに迫る",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news031.html",
+      "source": "ITmedia AI+"
+    },
+    {
       "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
       "link": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
       "source": "ITmedia AI+"
@@ -9,11 +14,6 @@
     {
       "title": "「最大45％コスト減」 Anthropicが「Claude Fable 5.1」発表 脆弱性検知にも対応",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
-      "source": "ITmedia AI+"
-    },
-    {
-      "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開",
-      "link": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
       "source": "ITmedia AI+"
     },
     {
@@ -37,7 +37,7 @@
       "source": "Google News"
     },
     {
-      "title": "サントリー新商品の店頭POPに“生成AI疑惑” 成分表示にも誤りで物議……同社に事実関係を聞いた - itmedia.co.jp",
+      "title": "サントリー新商品の店頭POPに“生成AI疑惑” 成分表示にも誤りで物議……同社に事実関係を聞いた - ITmedia",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EUi1ra19LemM4WmdQeV84T3R3X1FvYkd3eFdKZkZMdDRvN2ExNnR3aktpNDJoY1g5X25IZ0luOC1NWEtOc0JiNHJQbG5ZVWw4dWhPWG1uRTluSnFfNjRXZWFETWNSMmVhVXc?oc=5",
       "source": "Google News"
     }
