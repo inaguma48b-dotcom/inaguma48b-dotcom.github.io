@@ -1,44 +1,44 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-07",
   "items": [
     {
-      "title": "ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴",
-      "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000950/",
+      "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
+      "link": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "【無料】日本語のAI学習サイトをAnthropicが公開 「Claude Code入門」など357のコンテンツが学べる",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news015.html",
+      "title": "「最大45％コスト減」 Anthropicが「Claude Fable 5.1」発表 脆弱性検知にも対応",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "Anthropic、OpenAIが明かす「AI利用拡大でユーザーに何が起きているか」",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/27/news091.html",
+      "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開",
+      "link": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中",
-      "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+      "title": "VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか",
+      "link": "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
       "source": "Publickey"
     },
     {
-      "title": "DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持",
-      "link": "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
+      "title": "JavaScriptをC言語にコンパイルする「porffor」がアルファ版に到達。ネイティブやWASMを生成可能",
+      "link": "https://www.publickey1.jp/blog/26/javascriptcporfforwasm.html",
       "source": "Publickey"
     },
     {
-      "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
-      "link": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
+      "title": "Java誕生から現代に至る歴史をゴスリン氏ら関係者が語る公式ドキュメンタリー「The Java Story」、YouTubeで公開中",
+      "link": "https://www.publickey1.jp/blog/26/javathe_java_storyyoutube.html",
       "source": "Publickey"
     },
     {
-      "title": "タイ 生成AIを無料で利用可能に 政府が利用料支払い普及へ - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VOVNuSDhhVUpYMkZKTDFxZVk5dzJ0WUc3cC0yYXJSQXNiOGRWcGtZYm85N3dJRklXcG9mMnlTZndiNXlmMlFhejFBUWtQeU85bHFjSEV5T1VzbHQzNDZB?oc=5",
+      "title": "生成AI、検索手段としての利用5割超に サイバーエージェント調査 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jMG1MeC1vX0UtdW1LcUlncDA4TFk1T3ZMWnBOZDFka3Q5emNvSHRHVE5MMG5JRi1EZUVoWU9rLWVPWVRsc3h2VWQyOXlkcmp5RGdWMU9tT2IwZ1lIcFpkTU9sNEFuVnpHRDVDdA?oc=5",
       "source": "Google News"
     },
     {
-      "title": "自宅PCで巨大AIが高速動作？ ノートPCで350億、プロ向けGPU1枚で7530億パラメータのAIモデルを非公式量子化なしで動かす無償ツール「FreeToken」など生成AI技術5つを解説（生成AIウィークリー） - テクノエッジ TechnoEdge",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QMkJEcGE1aVJKMUFWU1ZmWGhvMnFTMkVDamVtN2lfWXZ6QUJZb1lNNnVxbWZkYmRmRERleWFjbXNXSHdhZFJHc0k5NlRqYVZXMTFOUmRvMkl1TjJrV1IzTEktTlNsdkE?oc=5",
+      "title": "サントリー新商品の店頭POPに“生成AI疑惑” 成分表示にも誤りで物議……同社に事実関係を聞いた - itmedia.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EUi1ra19LemM4WmdQeV84T3R3X1FvYkd3eFdKZkZMdDRvN2ExNnR3aktpNDJoY1g5X25IZ0luOC1NWEtOc0JiNHJQbG5ZVWw4dWhPWG1uRTluSnFfNjRXZWFETWNSMmVhVXc?oc=5",
       "source": "Google News"
     }
   ]
