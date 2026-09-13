@@ -1,44 +1,44 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-14",
   "items": [
     {
-      "title": "Google「Gemini 3.8 Flash」発表 プロンプト1つで3Dゲーム生成、価格据え置きで大規模モデルに迫る",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news031.html",
+      "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
-      "link": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
+      "title": "“最強エージェント”は、まさかのポンコツだった 業務の30％をAIに任せるIT運用部門が明かす「つまずきポイント」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/21/news015.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "「最大45％コスト減」 Anthropicが「Claude Fable 5.1」発表 脆弱性検知にも対応",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
+      "title": "AI技術を“無料で公開”、なぜ？ 米IT業界の文化「オープン化」の裏にしたたかな戦略、日本は追随できるか",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/14/news047.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか",
-      "link": "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
+      "title": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合",
+      "link": "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
       "source": "Publickey"
     },
     {
-      "title": "JavaScriptをC言語にコンパイルする「porffor」がアルファ版に到達。ネイティブやWASMを生成可能",
-      "link": "https://www.publickey1.jp/blog/26/javascriptcporfforwasm.html",
+      "title": "AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると",
+      "link": "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html",
       "source": "Publickey"
     },
     {
-      "title": "Java誕生から現代に至る歴史をゴスリン氏ら関係者が語る公式ドキュメンタリー「The Java Story」、YouTubeで公開中",
-      "link": "https://www.publickey1.jp/blog/26/javathe_java_storyyoutube.html",
+      "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
+      "link": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
       "source": "Publickey"
     },
     {
-      "title": "生成AI、検索手段としての利用5割超に サイバーエージェント調査 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jMG1MeC1vX0UtdW1LcUlncDA4TFk1T3ZMWnBOZDFka3Q5emNvSHRHVE5MMG5JRi1EZUVoWU9rLWVPWVRsc3h2VWQyOXlkcmp5RGdWMU9tT2IwZ1lIcFpkTU9sNEFuVnpHRDVDdA?oc=5",
+      "title": "本物そっくり“AI生成レシート“が経費精算の脅威に マネフォ「自力で見破るのは難しい」 企業はどう備える？ - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lS0F5T2ZYRk1RSUNReGs0U3QyWmRnZjNnbUo1bXBJQUtaVnNmUGdyOXVCR2t1WkU3bUhQQzVVVDNNUHVqVmRvT2p2NmlJZ2l6a0pFaTgyeUJ4MnNXbDZzbXYtb3F5TGhSNVE?oc=5",
       "source": "Google News"
     },
     {
-      "title": "サントリー新商品の店頭POPに“生成AI疑惑” 成分表示にも誤りで物議……同社に事実関係を聞いた - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EUi1ra19LemM4WmdQeV84T3R3X1FvYkd3eFdKZkZMdDRvN2ExNnR3aktpNDJoY1g5X25IZ0luOC1NWEtOc0JiNHJQbG5ZVWw4dWhPWG1uRTluSnFfNjRXZWFETWNSMmVhVXc?oc=5",
+      "title": "音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応 - gigazine.net",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xSDY0dURjNVlkZ0UyZFlYOG80U3pGSElOcFNVRDJveW4taFZVTmthU1FoODdJOWRacmVvQ052cEI0LWh6UkQ4MEdWbkJTbE95aDJKOXhOUHRJY0lQSFY3QTNITlNLa0JNejRoXw?oc=5",
       "source": "Google News"
     }
   ]
