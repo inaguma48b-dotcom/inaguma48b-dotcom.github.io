@@ -1,44 +1,44 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-21",
   "items": [
     {
-      "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
-      "link": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
+      "title": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」 GPUを巡る巨額マネーの行方",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/21/news024.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "“最強エージェント”は、まさかのポンコツだった 業務の30％をAIに任せるIT運用部門が明かす「つまずきポイント」",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/21/news015.html",
+      "title": "「社長の頭の中」をAIに 経営と現場をつなぐ専用AIとは？",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001651/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "AI技術を“無料で公開”、なぜ？ 米IT業界の文化「オープン化」の裏にしたたかな戦略、日本は追随できるか",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/14/news047.html",
+      "title": "AI研修を受けた人は1割未満 「学びたい」4割超なのに、なぜ？",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001604/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合",
-      "link": "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
+      "title": "PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開",
+      "link": "https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html",
       "source": "Publickey"
     },
     {
-      "title": "AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると",
-      "link": "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html",
+      "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
+      "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
       "source": "Publickey"
     },
     {
-      "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
-      "link": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
+      "title": "Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応",
+      "link": "https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html",
       "source": "Publickey"
     },
     {
-      "title": "本物そっくり“AI生成レシート“が経費精算の脅威に マネフォ「自力で見破るのは難しい」 企業はどう備える？ - itmedia.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lS0F5T2ZYRk1RSUNReGs0U3QyWmRnZjNnbUo1bXBJQUtaVnNmUGdyOXVCR2t1WkU3bUhQQzVVVDNNUHVqVmRvT2p2NmlJZ2l6a0pFaTgyeUJ4MnNXbDZzbXYtb3F5TGhSNVE?oc=5",
+      "title": "生成AIで「デザイナー不要論」に、僕はこう答える 杉山知之デジハリ大前学長・回答全文 AI×人間 - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jemMxWEdEQVhmYjAtX280Z0xQUUJMWlFMZ3p5ZS0zdmpDbFdaMGpJRUwwRERMSlFiWDc1cEh0dmd6T0xPdkxrSXdVX3lPTWNza1Jva296YjRTY3VmaHYzMmVYNTlaY1dwUXllWGw4YWJqMTVOX3c?oc=5",
       "source": "Google News"
     },
     {
-      "title": "「レベルファイブ」代表が新作映像での生成AI使用を謝罪 「イナズマイレブン」等を開発するゲームメーカー - KAI-YOU",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HUlp2eVZZd2NuaHk3VEo0dVpacWVTNDZZMi1zZXBwU0VkbEZfbUlDSWZHeXdDVklXSGhPWXlRWU1IcElWZlhhOQ?oc=5",
+      "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第74回：MiniMax H3高速化、15枚参照ほか多彩なテクニックを紹介（西川和久） - テクノエッジ TechnoEdge",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1ZklpcU9QQ0pmYUJhU0pndjhvb0pBV1c4dzhZV2V1UUhDbnhxUUYxRVpMSDJubnRiTWIyMkFIN3VpanVBcGRCaXFwTjJ5QXVfeEhVaEFnS3BmV0hfekgzZkllRjQ2WFE?oc=5",
       "source": "Google News"
     }
   ]
