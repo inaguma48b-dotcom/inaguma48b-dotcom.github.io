@@ -1,44 +1,44 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-28",
   "items": [
     {
-      "title": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」 GPUを巡る巨額マネーの行方",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/21/news024.html",
+      "title": "「AIがSaaSを消す」は根本的な誤解 IDCが示す“本当に起こる変化”とは",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news036.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "「社長の頭の中」をAIに 経営と現場をつなぐ専用AIとは？",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001651/",
+      "title": "「アサヒ・ニチレイの惨劇」はどう防げた？ 米HP幹部が語る“ネット遮断AI”と日本攻略",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/28/news053.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "AI研修を受けた人は1割未満 「学びたい」4割超なのに、なぜ？",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001604/",
+      "title": "ロボットを入れれば終わりじゃない フィジカルAIを現場で動かす企業の役割とは",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/28/2000001734/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開",
-      "link": "https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html",
+      "title": "「Docker Cloud Sandboxes」発表、AIエージェント向けサンドボックスをローカルとクラウド間で自由に移動可能に",
+      "link": "https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html",
       "source": "Publickey"
     },
     {
-      "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
-      "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
+      "title": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
+      "link": "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
       "source": "Publickey"
     },
     {
-      "title": "Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応",
-      "link": "https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html",
+      "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
+      "link": "https://www.publickey1.jp/blog/26/goiderune.html",
       "source": "Publickey"
     },
     {
-      "title": "【西川和久の不定期コラム】Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応 - pc.watch.impress.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PWndkT25aTHd2SXhRV0dDNGZFSEpIMVFaS1drOHhnQXd6U0JXNnlnd3BSdU1iLXdZLXZ2THdBTE5FUXdkYXQ5S2g0V01ZLXhBc2hRRk5qaW1xMGozMGtNNllrdTRLYmZqdGxJYXpoTi1mM2s?oc=5",
+      "title": "声優業界、生成ＡＩの被害深刻 無断模倣で第三者が報酬―ベテラン声優ら「権利認めて」 - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vSWJweDhPTEowaXFuX3ZiYnBWb3ptdXNvMXZrLVdHSnpWRzJ6TUU2OWRyckZpYjByeVRKMTlIVXpRZGUycGVGaF81YTVLalpCNzBfR0Y2c21SOENnRXhBbGZqdw?oc=5",
       "source": "Google News"
     },
     {
-      "title": "生成AIで「デザイナー不要論」に、僕はこう答える 杉山知之デジハリ大前学長・回答全文 AI×人間 - 産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jemMxWEdEQVhmYjAtX280Z0xQUUJMWlFMZ3p5ZS0zdmpDbFdaMGpJRUwwRERMSlFiWDc1cEh0dmd6T0xPdkxrSXdVX3lPTWNza1Jva296YjRTY3VmaHYzMmVYNTlaY1dwUXllWGw4YWJqMTVOX3c?oc=5",
+      "title": "【西川善司のグラフィックスMANIAC】DLSS 5の正体は1回推論の画像生成AI、NVIDIAが明かした3D誘導型の中身とは - PC Watch",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaGMxUzNZTEJxbHFsRlZxVy1nWXl0aGN4R2pWdnVwMmJ6ak91cmw5ZTFnanNJM1R6bUdJNWZ4bk1kb0hSZ3ZPWWRNV0gzUWxnVE1Xd2plbzVId3RpZUxtZHVNRmhjdnZ3Y2FFQ09R?oc=5",
       "source": "Google News"
     }
   ]
