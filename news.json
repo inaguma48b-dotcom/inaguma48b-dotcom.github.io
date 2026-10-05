@@ -1,44 +1,44 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-10-05",
   "items": [
     {
-      "title": "「AIがSaaSを消す」は根本的な誤解 IDCが示す“本当に起こる変化”とは",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news036.html",
+      "title": "「現場任せのAI活用」が失敗するこれだけの理由 経営層がすべき“頭の中”の言語化とは",
+      "link": "https://www.itmedia.co.jp/news/article/2610/05/2000001937/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "「アサヒ・ニチレイの惨劇」はどう防げた？ 米HP幹部が語る“ネット遮断AI”と日本攻略",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/28/news053.html",
+      "title": "トランプ大統領、「Super Intelligence Force」創設を発表 国家情報長官やFTC委員長らが主導",
+      "link": "https://www.itmedia.co.jp/news/article/2610/05/2000001990/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "ロボットを入れれば終わりじゃない フィジカルAIを現場で動かす企業の役割とは",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/28/2000001734/",
+      "title": "国産AI開発「ラストチャンス」の局面へ ノエトラが「44社が出資・国が最大1兆円支援」の追い風を背に向かう先",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/05/news037.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "「Docker Cloud Sandboxes」発表、AIエージェント向けサンドボックスをローカルとクラウド間で自由に移動可能に",
-      "link": "https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html",
+      "title": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果",
+      "link": "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
       "source": "Publickey"
     },
     {
-      "title": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
-      "link": "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
+      "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
+      "link": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
       "source": "Publickey"
     },
     {
-      "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
-      "link": "https://www.publickey1.jp/blog/26/goiderune.html",
+      "title": "Google Cloud、ローカルマシンにインストールできる大規模分散型マルチモデルDB「Spanner Omni」正式版リリースを発表",
+      "link": "https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html",
       "source": "Publickey"
     },
     {
-      "title": "生成ＡＩで「声」無断模倣、是非は 人気声優「権利侵害」訴え―東京地裁で３０日判決 - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9veWIxRW9wSnJ5LUd3MEctMS04bUQ2ZjhNZmp4WFJLcmZKZkFQMUlDQ29fZmhFSloyQi0tQWMzT0NMNV9pdGNETjN2VHA2bzExdGM3TVdEajh2a1Nxd2E4WTNZQQ?oc=5",
+      "title": "Qwen3.8-27Bの精度98%を維持しつつ9倍小型化しiPhoneでも動く「Bonsai-2-27B」など生成AI技術5つを解説（生成AIウィークリー） - テクノエッジ TechnoEdge",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ubDZnTk1Id205aWtMbFFNTU5CVzI2UkRNY0FaWko5aUZDalNzWDZRM09JSUFkaXp4Sjd5MGRQdDhXZU9uVnpNQkp0MTZQT0wwZ3pZSERac0pyeS1ZMGZBc2NHRnRfbG8?oc=5",
       "source": "Google News"
     },
     {
-      "title": "【西川善司のグラフィックスMANIAC】DLSS 5の正体は1回推論の画像生成AI、NVIDIAが明かした3D誘導型の中身とは - PC Watch",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaGMxUzNZTEJxbHFsRlZxVy1nWXl0aGN4R2pWdnVwMmJ6ak91cmw5ZTFnanNJM1R6bUdJNWZ4bk1kb0hSZ3ZPWWRNV0gzUWxnVE1Xd2plbzVId3RpZUxtZHVNRmhjdnZ3Y2FFQ09R?oc=5",
+      "title": "生成AIでの人類絶滅論のベストセラー、相次ぐ“暴走”を受け99円に「世界はこの通りに動いている」 - KAI-YOU",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wS2RxeC1lRnk0TGQxNTJhSkdpaTJ4VVBQTWppTzZhMjlKLVA0LUZUaDhMWGt6ck81YlkxaHZpdHRxMWt5bFhaag?oc=5",
       "source": "Google News"
     }
   ]
