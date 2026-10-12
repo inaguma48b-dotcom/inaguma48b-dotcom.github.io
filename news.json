@@ -2,6 +2,11 @@
   "updated": "2026-10-12",
   "items": [
     {
+      "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
+      "source": "ITmedia AI+"
+    },
+    {
       "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
       "link": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
       "source": "ITmedia AI+"
@@ -9,11 +14,6 @@
     {
       "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
       "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
-      "source": "ITmedia AI+"
-    },
-    {
-      "title": "ChatGPT、ついに音声ファイルに対応 文字起こしや要約などが可能に 有料ユーザー向け",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/",
       "source": "ITmedia AI+"
     },
     {
@@ -37,8 +37,8 @@
       "source": "Google News"
     },
     {
-      "title": "山中で遭難の16歳少年、登山計画に生成AI「Claude」利用 救助隊は「ルートの妄信」警鐘 - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yOWtsa2RCOG9EYjF5VTVxeGdnUWNVUGhDazhKTWVmWWc3amg1LVJ1LXRUYUtFZFE0cmRLdFpENWpKbElGSFc4Y0prZkozRkxONms2V1JGMVpBd2hCSXl4dWFSd0JteWNjc2c?oc=5",
+      "title": "オリコンチャートの２位に生成ＡＩ活用「ＩＮＭＵ ＫＩＮＧ」 登場からわずか２か月、異例ヒットにＳＮＳの反応様々（スポーツ報知） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Cd0NZY0FBQ0ttaF9nUk5UdjFEcmhwMEtJanUtMXFCN3dyem9EbGJsUlRLQmNjMG9uaUZDWFNLTmZvMFk4M19TNWZOU3FYaTZzOEp6SnRyS2RzTnFFanprM3BHcTd4Z1IyazBxZmNQeXUtOVN2SlF6bFJGaC1oZmM?oc=5",
       "source": "Google News"
     }
   ]
