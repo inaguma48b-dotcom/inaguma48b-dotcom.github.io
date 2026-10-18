@@ -1,44 +1,44 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-19",
   "items": [
     {
-      "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
+      "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
+      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
-      "link": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
+      "title": "Newオンプレミス、RAG、SREはもう“幻滅期” 2026年、「過度な期待」のピークにある5項目とは？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news029.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
-      "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+      "title": "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは データ活用“逆算”の鉄則",
+      "link": "https://kn.itmedia.co.jp/kn/article/2610/19/2000002342/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
-      "link": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
+      "title": "マイクロソフト、.NETのツールチェーンマネージャ「dotnetup」プレビュー公開。複数バージョンの.NET環境を管理可能",
+      "link": "https://www.publickey1.jp/blog/26/netdotnetupnet.html",
       "source": "Publickey"
     },
     {
-      "title": "AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表",
-      "link": "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html",
+      "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
+      "link": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
       "source": "Publickey"
     },
     {
-      "title": "マイクロソフト、VS CodeにAIモデルのオーケストレーションで高品質低コストなAIを実現する「HydraFusion」をプレビュー実装",
-      "link": "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
+      "title": "AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で",
+      "link": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
       "source": "Publickey"
     },
     {
-      "title": "生成AIの安全性評価するシステム開発 - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10aU1oemVUcW1rUDduSmM3VUx6clkzbDM5a09Nb1NDck1rNDlGX3E2TjQ5QmZDVGJwSjlRVVgyblJEeWRIOF96c3RuYmw2TXB5UW9MVXFzVzNHNlcycEdV?oc=5",
+      "title": "再現ドラマにも生成AIを使用、俳優の仕事はどうなる？ テレビ番組のAI化はどこまで進むのか #エキスパートトピ - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMG02S0hUbDgzLVhXM0RuWVFDbFBfdzg3RXBsRVlFYWhuTnR1RmR3alh5MDk1LXgyTjBiVHpoNkFhM01haG1hYWFMV3RXZm5aRk1RUTdoYTlVSUtqTUQxbEttdmU5bWZ0bDZVNmJ6amd5UFZPaDZ2MzF6ejR3U1ZuT1A3UEJMdUZF?oc=5",
       "source": "Google News"
     },
     {
-      "title": "オリコンチャートの２位に生成ＡＩ活用「ＩＮＭＵ ＫＩＮＧ」 登場からわずか２か月、異例ヒットにＳＮＳの反応様々（スポーツ報知） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Cd0NZY0FBQ0ttaF9nUk5UdjFEcmhwMEtJanUtMXFCN3dyem9EbGJsUlRLQmNjMG9uaUZDWFNLTmZvMFk4M19TNWZOU3FYaTZzOEp6SnRyS2RzTnFFanprM3BHcTd4Z1IyazBxZmNQeXUtOVN2SlF6bFJGaC1oZmM?oc=5",
+      "title": "【実体験】生成AIはすでに「パラドゲー」すらクリアできる―こんなに簡単！PC操作をAIに任せ、ハードコア歴史ストラテジーを攻略させた一部始終をお見せします - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJNGZMQVZyWW5JalVDb1pJRlNNbnc2UFpVN2JZMFYzSl9rSlJaaG1MTTVaejFmenBWcXpXS193Q193S1Noa0MxcElTVUV4STRSZ3FwX3ZNN29OZkk4VTlNSHZYTHE1UQ?oc=5",
       "source": "Google News"
     }
   ]
