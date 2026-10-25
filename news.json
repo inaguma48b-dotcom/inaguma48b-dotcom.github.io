@@ -1,44 +1,44 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-26",
   "items": [
     {
-      "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
-      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+      "title": "「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "Newオンプレミス、RAG、SREはもう“幻滅期” 2026年、「過度な期待」のピークにある5項目とは？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news029.html",
+      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+      "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは データ活用“逆算”の鉄則",
-      "link": "https://kn.itmedia.co.jp/kn/article/2610/19/2000002342/",
+      "title": "チームみらい安野貴博党首ら「サイバー攻撃から国民守る」緊急提言、デジ庁に提出 「AIにはAIを」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002563/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "マイクロソフト、.NETのツールチェーンマネージャ「dotnetup」プレビュー公開。複数バージョンの.NET環境を管理可能",
-      "link": "https://www.publickey1.jp/blog/26/netdotnetupnet.html",
+      "title": "「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など",
+      "link": "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html",
       "source": "Publickey"
     },
     {
-      "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
-      "link": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
+      "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
+      "link": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
       "source": "Publickey"
     },
     {
-      "title": "AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で",
-      "link": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
+      "title": "「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など",
+      "link": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
       "source": "Publickey"
     },
     {
-      "title": "再現ドラマにも生成AIを使用、俳優の仕事はどうなる？ テレビ番組のAI化はどこまで進むのか #エキスパートトピ - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMG02S0hUbDgzLVhXM0RuWVFDbFBfdzg3RXBsRVlFYWhuTnR1RmR3alh5MDk1LXgyTjBiVHpoNkFhM01haG1hYWFMV3RXZm5aRk1RUTdoYTlVSUtqTUQxbEttdmU5bWZ0bDZVNmJ6amd5UFZPaDZ2MzF6ejR3U1ZuT1A3UEJMdUZF?oc=5",
+      "title": "生成AI「ChatGPT」登場から4年、変化する教育現場のあり方 “十年一日”の学習指導要領が日本人をますますダメにする - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUG5EUUZVZExWaFVZTnpXMm1RZDRRcHJ5ZTRqVXNRU2hrZ1dQX2FUMkkzU0NnSjNGVThoVmVIcEJfX2thakhHUDd4enFtN0wwZkY4ZDZkbm42em9NbFJoMXVMelBLLXlLaFAwZ2Zad3VKTnM4ZFZEdnJaOE9laTg?oc=5",
       "source": "Google News"
     },
     {
-      "title": "【実体験】生成AIはすでに「パラドゲー」すらクリアできる―こんなに簡単！PC操作をAIに任せ、ハードコア歴史ストラテジーを攻略させた一部始終をお見せします - Game*Spark",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJNGZMQVZyWW5JalVDb1pJRlNNbnc2UFpVN2JZMFYzSl9rSlJaaG1MTTVaejFmenBWcXpXS193Q193S1Noa0MxcElTVUV4STRSZ3FwX3ZNN29OZkk4VTlNSHZYTHE1UQ?oc=5",
+      "title": "生成AI時代に問われる「コンテンツの未来」の描き方 - Forbes JAPAN",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yVDlEWFRiVkxJbzNrdFZVMGg1U3ZpREdtYlpwaGkzWkVHRE4yLThhZ293THppNWwySnR2WDZZZ0lTM285Q3UwTUJHM0g0bzVBU25DMmRRZFZFdw?oc=5",
       "source": "Google News"
     }
   ]
