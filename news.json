@@ -1,44 +1,44 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-11-02",
   "items": [
     {
-      "title": "「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
+      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更 月200ドルで5時間ごとの利用制限を撤廃",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
-      "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
+      "title": "「保安検査の長い列」と「人手不足」をどう解消する？ フランクフルト空港におけるAI時代の空港DX",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news003.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "チームみらい安野貴博党首ら「サイバー攻撃から国民守る」緊急提言、デジ庁に提出 「AIにはAIを」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002563/",
+      "title": "キオクシア「設備投資を急がねば……」 2027年分は完売、メモリ供給追い付くか",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news031.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など",
-      "link": "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html",
+      "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+      "link": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "source": "Publickey"
     },
     {
-      "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
-      "link": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+      "title": "オラクル、社員が業務アプリをAIで自動作成、Oracle Cloud上で共有できる「Oracle App Composer」発表。Oracle AI World 2026",
+      "link": "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html",
       "source": "Publickey"
     },
     {
-      "title": "「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など",
-      "link": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
+      "title": "Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026",
+      "link": "https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html",
       "source": "Publickey"
     },
     {
-      "title": "パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JR0xRMms3cUlIbHJTVkFSckliejBwUGJMaTR1LWJZQTdoaVRpQXliblctRlROelZnY0tVNGZUS3pka2psZVFvM2kySXFXdFFwV1VEWjV4YU1EdnFyZy1NNExUbUlTcTR3UFJ3VA?oc=5",
+      "title": "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も - CNET Japan",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3bXMwdmxtWEpwTjUyZTVLdzExZFZ0a1RnRlo4YkJTR2VEcUwwcWdYOU1NNzNUV3pYWmQxSTNtWVRSMTlZbkZGMW42azJQNV91SlE?oc=5",
       "source": "Google News"
     },
     {
-      "title": "パナソニックHD子会社、使用禁止の生成AIに従業員約33万人分の個人情報をアップロード - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zVnN6NTV3aDhJRm5WeEdfZ0MwdGNXNEhnRmdGdjlnWlJiNDRiSmNyc29GaFlRN1RwaC1tdnRNRmpmUHZjWkFJNVBFTXQyRDdFRGx4QnpweWlTdVFUWHA3NHVzQmJxNFhyWHc?oc=5",
+      "title": "AIネイティブ企業研修プラットフォーム「LearningOn」、生成AIの基礎から業務活用まで学べる「AIリテラシープラン」を提供開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83ZlVYVkZFRENNcF9kWXI4LTBVNEVsX0MyWHpIVkdvWkh5T2IxaEZjSm9YNFZ5VENlVThaelZYbDk4Ml9VdEtzZEZ4UnFFc2VOWVk5ZmlUQTdma21VUDFiTWM4MXFMOEhmYlE?oc=5",
       "source": "Google News"
     }
   ]
