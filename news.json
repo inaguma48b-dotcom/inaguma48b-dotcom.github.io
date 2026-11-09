@@ -1,44 +1,44 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-09",
   "items": [
     {
-      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更 月200ドルで5時間ごとの利用制限を撤廃",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
+      "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "「保安検査の長い列」と「人手不足」をどう解消する？ フランクフルト空港におけるAI時代の空港DX",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news003.html",
+      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "キオクシア「設備投資を急がねば……」 2027年分は完売、メモリ供給追い付くか",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news031.html",
+      "title": "AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news023.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
-      "link": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+      "title": "Excelで帳票レイアウトを作成、CSVデータから簡単に単票や明細付きの帳票を生成できる「AS-DataReport」が新登場［PR］",
+      "link": "https://www.publickey1.jp/blog/26/excelcsvas-datareportpr.html",
       "source": "Publickey"
     },
     {
-      "title": "オラクル、社員が業務アプリをAIで自動作成、Oracle Cloud上で共有できる「Oracle App Composer」発表。Oracle AI World 2026",
-      "link": "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html",
+      "title": "MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と",
+      "link": "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
       "source": "Publickey"
     },
     {
-      "title": "Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026",
-      "link": "https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html",
+      "title": "ターミナル用ライブラリ［Libghostty 1.0」リリース。Windows版マルチプレクサ「Rex」もまもなく登場予定",
+      "link": "https://www.publickey1.jp/blog/26/libghostty_10windowsrex.html",
       "source": "Publickey"
     },
     {
-      "title": "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も - CNET Japan",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3bXMwdmxtWEpwTjUyZTVLdzExZFZ0a1RnRlo4YkJTR2VEcUwwcWdYOU1NNzNUV3pYWmQxSTNtWVRSMTlZbkZGMW42azJQNV91SlE?oc=5",
+      "title": "無料の画像生成AI「P-H3-Image」がすごい 参照画像1枚で同じ人物を自在に再現 (1/4) - ASCII.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82N3VveEhWb2pBbjlKYXY3eGJyT3pFcnVnWmpMS1o5Y0pVcmJVY1NJaUZoa3NfRlYya19zaWwwSXJ3ZlFnRmhJNklHSmxZUk1NQWRuRw?oc=5",
       "source": "Google News"
     },
     {
-      "title": "AIネイティブ企業研修プラットフォーム「LearningOn」、生成AIの基礎から業務活用まで学べる「AIリテラシープラン」を提供開始 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83ZlVYVkZFRENNcF9kWXI4LTBVNEVsX0MyWHpIVkdvWkh5T2IxaEZjSm9YNFZ5VENlVThaelZYbDk4Ml9VdEtzZEZ4UnFFc2VOWVk5ZmlUQTdma21VUDFiTWM4MXFMOEhmYlE?oc=5",
+      "title": "バイトダンスの動画生成AI「Seedance」、海外売上高が半年で5倍 海外比率も5割に - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zVm9mekJFeG9vQkFzY2Nua2RaY2d0OUUtR1VTT3JWNnlDTDNObWhuZHhhUlFvT2k3a04ySW56MzViUkw2N3VqYkhsVHJTVGduOVhSNDQ5Qnl0OEtDbmdENkNXblkySlZvWjVQendjNlhFTEJicmpDYUtxYi1aYmc?oc=5",
       "source": "Google News"
     }
   ]
