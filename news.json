@@ -1,35 +1,45 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-16",
   "items": [
     {
-      "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
+      "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+      "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場 OpenAIが決済大手と提携し開発 提供は米国から",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news023.html",
+      "title": "CAD図面内の品名や注記をAIで検索、DWG／DXF形式に対応",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news016.html",
       "source": "ITmedia AI+"
     },
     {
-      "title": "Excelで帳票レイアウトを作成、CSVデータから簡単に単票や明細付きの帳票を生成できる「AS-DataReport」が新登場［PR］",
-      "link": "https://www.publickey1.jp/blog/26/excelcsvas-datareportpr.html",
+      "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
+      "link": "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
       "source": "Publickey"
     },
     {
-      "title": "MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と",
-      "link": "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
+      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+      "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Publickey"
     },
     {
-      "title": "ターミナル用ライブラリ［Libghostty 1.0」リリース。Windows版マルチプレクサ「Rex」もまもなく登場予定",
-      "link": "https://www.publickey1.jp/blog/26/libghostty_10windowsrex.html",
+      "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける",
+      "link": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
       "source": "Publickey"
+    },
+    {
+      "title": "生成AIの新手法「次概念モデリング」──文章の骨格を先に作り高速化を狙う - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUld1LVlWT3pKbTJBRlJwVFpvSHZyVVFRT0NneHEyWEtBRllvMEVXLXo5ZEpCMzNSX0duSkY0ZU5UemZOZ2FXaXJ5eUhXeUxNMmNTQXEwano4LUhjQ3ZlSnB3ZWxlSUpiWm1lQVBDd1RUOE9kZmV4MFd1Z1NTN1k?oc=5",
+      "source": "Google News"
+    },
+    {
+      "title": "ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている - GIGAZINE",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTdZdDRCVGJCeEc3bVlkbkhiUFh4M3huRTlKNkpRVEtyRVJEUDlOVXpDdURYdUdqWlNzTFhGRk5fWGwtTUZqOGFxZlhWZFJlcFNPd3BEY0VaeWtabF9SNG9kVGotZU5sMERxYXpoeG1wbHJuWF9FeC1xRFRESTV1S3Q1ZnhLczlE?oc=5",
+      "source": "Google News"
     }
   ]
 }
