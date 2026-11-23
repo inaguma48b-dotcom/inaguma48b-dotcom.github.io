@@ -1,44 +1,44 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-23",
   "items": [
     {
-      "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場 OpenAIが決済大手と提携し開発 提供は米国から",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/",
+      "title": "メルカリの情報流出、AI委託先で何が起きた？ 確認された2つの攻撃",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "CAD図面内の品名や注記をAIで検索、DWG／DXF形式に対応",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news016.html",
+      "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
+      "link": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
       "source": "ITmedia AI+"
     },
     {
-      "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
-      "link": "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
+      "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
+      "link": "https://www.publickey1.jp/blog/26/database_hubai.html",
       "source": "Publickey"
     },
     {
-      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-      "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+      "title": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+      "link": "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
       "source": "Publickey"
     },
     {
-      "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける",
-      "link": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
+      "title": "マイクロソフト、AIが生成したアプリを企業内で安全に実行するランタイム「Copilot Managed Runtime」正式リリース",
+      "link": "https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html",
       "source": "Publickey"
     },
     {
-      "title": "生成AIの新手法「次概念モデリング」──文章の骨格を先に作り高速化を狙う - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUld1LVlWT3pKbTJBRlJwVFpvSHZyVVFRT0NneHEyWEtBRllvMEVXLXo5ZEpCMzNSX0duSkY0ZU5UemZOZ2FXaXJ5eUhXeUxNMmNTQXEwano4LUhjQ3ZlSnB3ZWxlSUpiWm1lQVBDd1RUOE9kZmV4MFd1Z1NTN1k?oc=5",
+      "title": "「リーマン予想」生成AIが証明か - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5",
       "source": "Google News"
     },
     {
-      "title": "ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている - GIGAZINE",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTdZdDRCVGJCeEc3bVlkbkhiUFh4M3huRTlKNkpRVEtyRVJEUDlOVXpDdURYdUdqWlNzTFhGRk5fWGwtTUZqOGFxZlhWZFJlcFNPd3BEY0VaeWtabF9SNG9kVGotZU5sMERxYXpoeG1wbHJuWF9FeC1xRFRESTV1S3Q1ZnhLczlE?oc=5",
+      "title": "『GetBackers -奪還屋-』告知映像で謝罪 生成AI使用のアニメ表現 YouTubeボイスコミックシリーズ説明不足で騒動（オリコン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BeU5ZWm1mWXVOOU5sdllsZVIxQkNMbzU0WDc5QUE1NXo0Zjc0djQ2VE0zTXRRdTNtVk9TeGNPeWJKMzB6dG5WX2xUeEpob3NtM0xMTU1xa3RNSndDNkhhdUlPSHdvRmgxdXd5X21KTzl2RDJQQV9aVXNkbUhfRDA?oc=5",
       "source": "Google News"
     }
   ]
